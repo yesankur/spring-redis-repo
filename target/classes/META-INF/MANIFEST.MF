@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: extramarks
+Build-Jdk: 15.0.2
+Implementation-Title: michaelcgood-redis-example
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.michaelcgood
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/com.michaelcgo
+ od/
+Created-By: Maven Integration for Eclipse
+
